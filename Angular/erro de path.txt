@@ -1,0 +1,5 @@
+Caso aconteça erro de caminho na execução do ng new App
+
+npm link @angular/cli
+
+vai linkar o cli do angular com o npm
