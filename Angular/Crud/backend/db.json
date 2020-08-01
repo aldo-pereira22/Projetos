@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta Bic Preta",
-      "price": 5.89
+      "name": "Lapis preto basico",
+      "price": "1.50"
     },
     {
       "id": 2,
@@ -12,8 +12,8 @@
     },
     {
       "id": 3,
-      "name": "Samsung S20 +",
-      "price": 5000.9
+      "name": "Samsung S20 + Ultra",
+      "price": "7520.89"
     },
     {
       "name": "Formulario",
