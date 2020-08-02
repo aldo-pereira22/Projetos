@@ -1,29 +1,9 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Lapis preto basico",
-      "price": "1.50"
-    },
-    {
       "id": 2,
       "name": "Notebook Mac Pro",
       "price": 12000.89
-    },
-    {
-      "id": 3,
-      "name": "Samsung S20 + Ultra",
-      "price": "7520.89"
-    },
-    {
-      "name": "Formulario",
-      "price": "9.99",
-      "id": 4
-    },
-    {
-      "name": "Geladeira",
-      "price": "1899.44",
-      "id": 5
     },
     {
       "name": "Notebook",
